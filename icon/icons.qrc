@@ -1,0 +1,11 @@
+<RCC>
+  <qresource prefix="buton">
+    <file>butonhazır.png</file>
+  </qresource>
+  <qresource prefix="txt_kisim">
+    <file>txt_kısım.png</file>
+  </qresource>
+  <qresource prefix="arkaplan">
+    <file>arka_plan.jpeg</file>
+  </qresource>
+</RCC>
